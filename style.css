@@ -1,0 +1,24 @@
+.body_background{
+    background-image: url(bg1.jpg);
+    background-position: center;
+    background-size: cover;
+    
+}
+#my_canvas{
+    width: 800px;
+    height: 600px;
+    background-color: aliceblue;
+    border-width: 10px;
+    border-style: ridge;
+    border-color: aliceblue;
+}
+h1{
+    color: rgb(245, 188, 3);
+    font-size: 40px;
+    font-style: inherit;
+}
+
+body{
+    cursor: pointer;
+}
+
